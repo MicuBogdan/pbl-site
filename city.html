@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Descoperă istoria și misterele unei cetăți din Apocalipsa">
+  <meta name="theme-color" content="#8B4513">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Septem Civitates">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231a1a2e' width='100' height='100'/><text x='50' y='60' font-size='40' font-weight='bold' fill='%23f1a208' text-anchor='middle'>S</text></svg>">
+  <title>Septem Civitates</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" id="city-theme" href="">
+  <link rel="stylesheet" href="assets/css/city-article.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="page-city">
+  <header>
+    <nav>
+      <div class="logo">SEPTEM CIVITATES</div>
+      <div class="nav-right">
+        <a href="/" class="nav-link" data-i18n="nav.home">Acasă</a>
+        <div class="lang-selector">
+          <button class="lang-btn" data-lang="ro">RO</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="fr">FR</button>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <!-- CITY HEADER -->
+    <section class="city-header">
+      <h1 id="city-title"></h1>
+      <div class="city-meta">
+        <span id="city-region"></span>
+        <span id="city-era"></span>
+      </div>
+    </section>
+
+    <!-- VIDEO SECTION -->
+    <section class="video-section">
+      <div class="video-container">
+        <iframe id="city-video" src="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </section>
+
+    <!-- MAIN CONTENT GRID -->
+    <div class="content-grid">
+      <!-- MAIN CONTENT -->
+      <article class="main-content" id="city-content">
+        <!-- Conținutul Markdown va fi randezat aici -->
+      </article>
+
+      <!-- SIDEBAR -->
+      <aside class="sidebar">
+        <div class="sidebar-box">
+          <h3 data-i18n="sidebar.highlights">Puncte Cheie</h3>
+          <ul id="city-highlights">
+            <!-- Dinamic populated -->
+          </ul>
+        </div>
+
+        <div class="sidebar-box">
+          <h3 data-i18n="sidebar.visit">De ce să vizitezi</h3>
+          <ul id="city-reasons">
+            <!-- Dinamic populated -->
+          </ul>
+        </div>
+      </aside>
+    </div>
+  </main>
+  
+    <section class="article-cta">
+      <a
+        class="article-cta-button"
+        href="https://bpl-game.micubogdan.dev"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Continuă în BPL Game
+      </a>
+    </section>
+
+
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

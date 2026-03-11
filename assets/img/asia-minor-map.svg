@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="sea" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e9f0f6"/>
+      <stop offset="100%" stop-color="#dbe6f2"/>
+    </linearGradient>
+    <linearGradient id="land" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f4efe8"/>
+      <stop offset="100%" stop-color="#e7dccf"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#0f3460" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#sea)"/>
+
+  <path filter="url(#shadow)" fill="url(#land)" stroke="#cbbcae" stroke-width="3"
+        d="M84 324
+           C122 260 168 228 222 214
+           C278 200 338 206 396 228
+           C448 248 496 266 540 256
+           C592 244 646 214 706 190
+           C768 166 842 156 912 166
+           C976 176 1036 204 1092 238
+           C1128 260 1152 290 1166 328
+           C1178 362 1176 396 1160 428
+           C1142 466 1106 498 1056 526
+           C1006 554 946 572 880 582
+           C808 592 734 590 664 580
+           C602 570 548 554 494 528
+           C438 502 390 482 338 476
+           C284 470 228 478 176 502
+           C130 524 98 530 84 520
+           C70 510 64 470 66 420
+           C68 374 74 344 84 324 Z"/>
+
+  <path fill="none" stroke="#d8d0c6" stroke-width="4"
+        d="M150 310 C260 260 360 260 470 290 C580 320 690 320 820 270 C940 220 1040 230 1110 290"/>
+  <path fill="none" stroke="#d8d0c6" stroke-width="3"
+        d="M190 430 C300 390 420 390 520 420 C640 456 760 460 880 430 C990 402 1070 396 1120 410"/>
+
+  <circle cx="222" cy="350" r="4" fill="#b9aa9c"/>
+  <circle cx="300" cy="300" r="4" fill="#b9aa9c"/>
+  <circle cx="420" cy="320" r="4" fill="#b9aa9c"/>
+  <circle cx="560" cy="300" r="4" fill="#b9aa9c"/>
+  <circle cx="690" cy="290" r="4" fill="#b9aa9c"/>
+  <circle cx="820" cy="260" r="4" fill="#b9aa9c"/>
+  <circle cx="960" cy="300" r="4" fill="#b9aa9c"/>
+</svg>

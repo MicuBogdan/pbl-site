@@ -1,0 +1,52 @@
+/* Filatelia - warm, welcoming */
+
+body.page-city {
+  background: linear-gradient(180deg, #fff3e3 0%, #ffffff 60%);
+}
+
+.page-city .city-header {
+  background: linear-gradient(135deg, #5a3a14 0%, #f2994a 60%, #f2c94c 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 88%, 0 100%);
+}
+
+.page-city .main-content {
+  background: #fffaf2;
+  border: 1px solid rgba(242, 153, 74, 0.3);
+}
+
+.page-city .main-content h2 {
+  border-bottom-color: #f2994a;
+}
+
+.page-city .sidebar-box {
+  border-left: 6px solid #f2994a;
+  background: #fff7ec;
+}
+
+.page-city .adventure-section {
+  background: linear-gradient(135deg, rgba(242, 153, 74, 0.18) 0%, rgba(242, 201, 76, 0.12) 100%);
+}
+
+.page-city .video-container {
+  border: 3px solid rgba(242, 153, 74, 0.35);
+}
+
+/* Layout overrides */
+
+.page-city .city-header {
+  padding-bottom: 6rem;
+  border-radius: 0 0 40px 40px;
+}
+
+.page-city .video-section {
+  margin-top: -4rem;
+}
+
+.page-city .content-grid {
+  grid-template-columns: 1.3fr 1fr;
+  gap: 2.5rem;
+}
+
+.page-city .sidebar {
+  align-self: start;
+}

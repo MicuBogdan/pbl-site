@@ -1,0 +1,60 @@
+/* Pergam - scholarly, regal */
+
+body.page-city {
+  background: linear-gradient(180deg, #f2f0f9 0%, #ffffff 60%);
+}
+
+.page-city .city-header {
+  background: linear-gradient(135deg, #2c1a6b 0%, #6a4cff 60%, #b59bff 100%);
+  border-bottom: 6px solid rgba(181, 155, 255, 0.5);
+}
+
+.page-city .main-content {
+  border: 2px solid rgba(106, 76, 255, 0.3);
+  background: #fbfaff;
+}
+
+.page-city .main-content h2 {
+  border-bottom-color: #6a4cff;
+}
+
+.page-city .sidebar-box {
+  border-left: 6px solid #6a4cff;
+  background: #fbfaff;
+}
+
+.page-city .adventure-section {
+  background: linear-gradient(135deg, rgba(106, 76, 255, 0.16) 0%, rgba(181, 155, 255, 0.12) 100%);
+}
+
+.page-city .video-container {
+  border: 3px solid rgba(106, 76, 255, 0.35);
+}
+
+/* Layout overrides */
+
+.page-city .content-grid {
+  grid-template-columns: 1fr 2fr;
+  gap: 3rem;
+}
+
+.page-city .sidebar {
+  order: -1;
+}
+
+.page-city .main-content {
+  column-count: 2;
+  column-gap: 2.5rem;
+}
+
+.page-city .main-content h2,
+.page-city .main-content h3,
+.page-city .main-content ul,
+.page-city .main-content ol {
+  column-span: all;
+}
+
+.page-city .video-section {
+  max-width: 86%;
+  margin-left: auto;
+}

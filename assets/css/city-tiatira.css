@@ -1,0 +1,54 @@
+/* Tiatira - vibrant, creative */
+
+body.page-city {
+  background: linear-gradient(180deg, #fff1fb 0%, #ffffff 60%);
+}
+
+.page-city .city-header {
+  background: linear-gradient(135deg, #3a1b5b 0%, #c03aff 60%, #ff7ab6 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+}
+
+.page-city .main-content {
+  border: 2px solid rgba(192, 58, 255, 0.25);
+  background: #fff8fd;
+}
+
+.page-city .main-content h2 {
+  border-bottom-color: #c03aff;
+}
+
+.page-city .sidebar-box {
+  border-left: 6px solid #ff7ab6;
+  background: #fff6fb;
+}
+
+.page-city .adventure-section {
+  background: linear-gradient(135deg, rgba(192, 58, 255, 0.18) 0%, rgba(255, 122, 182, 0.12) 100%);
+}
+
+.page-city .video-container {
+  border: 3px solid rgba(255, 122, 182, 0.35);
+}
+
+/* Layout overrides */
+
+.page-city .content-grid {
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+.page-city .sidebar {
+  order: -1;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.page-city .sidebar-box {
+  border-radius: 20px 6px 20px 6px;
+}
+
+.page-city .adventure-section {
+  clip-path: polygon(0 0, 100% 4%, 100% 100%, 0 100%);
+}

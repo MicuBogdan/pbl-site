@@ -1,0 +1,72 @@
+/* Efes - solemn, warm, parchment-inspired */
+
+body.page-city {
+  background: linear-gradient(180deg, #f7f1e6 0%, #ffffff 60%);
+}
+
+.page-city .city-header {
+  background: linear-gradient(135deg, #3b2a1a 0%, #7a4f1a 55%, #b8860b 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+}
+
+.page-city .main-content {
+  background: #fffaf2;
+  border: 1px solid #e6d5ba;
+  box-shadow: 0 12px 30px rgba(59, 42, 26, 0.08);
+}
+
+.page-city .main-content h2 {
+  border-bottom-color: #b8860b;
+}
+
+.page-city .sidebar-box {
+  border-left: 6px solid #b8860b;
+  background: #fffdf7;
+}
+
+.page-city .adventure-section {
+  background: linear-gradient(135deg, rgba(184, 134, 11, 0.18) 0%, rgba(122, 79, 26, 0.12) 100%);
+  border-color: #e6d5ba;
+}
+
+.page-city .video-container {
+  border: 4px solid rgba(184, 134, 11, 0.35);
+}
+
+/* Layout overrides */
+
+.page-city .city-header {
+  text-align: left;
+  padding: 3.5rem 3.5rem 4.5rem;
+}
+
+.page-city .city-meta {
+  justify-content: flex-start;
+  gap: 1.5rem;
+}
+
+.page-city .video-section {
+  max-width: 72%;
+  margin-left: 0;
+}
+
+.page-city .content-grid {
+  grid-template-columns: 2.2fr 1fr;
+  gap: 2.5rem;
+}
+
+.page-city .sidebar {
+  position: sticky;
+  top: 110px;
+}
+
+.page-city .adventure-section {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.page-city .adventure-section h2 {
+  margin-top: 0;
+}

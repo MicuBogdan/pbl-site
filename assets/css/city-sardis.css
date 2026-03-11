@@ -1,0 +1,71 @@
+/* Sardis - earthy, resilient */
+
+body.page-city {
+  background: linear-gradient(180deg, #eef6f0 0%, #ffffff 60%);
+}
+
+.page-city .city-header {
+  background: linear-gradient(135deg, #1e5631 0%, #27ae60 60%, #6fcf97 100%);
+  border-radius: 0 0 32px 32px;
+}
+
+.page-city .main-content {
+  background: #f8fffa;
+  border: 1px solid rgba(39, 174, 96, 0.25);
+  border-top: 5px solid #27ae60;
+}
+
+.page-city .main-content h2 {
+  border-bottom-color: #27ae60;
+}
+
+.page-city .sidebar-box {
+  border-left: 6px solid #27ae60;
+  background: #f6fffa;
+}
+
+.page-city .adventure-section {
+  background: linear-gradient(135deg, rgba(39, 174, 96, 0.16) 0%, rgba(111, 207, 151, 0.12) 100%);
+}
+
+.page-city .video-container {
+  border: 3px solid rgba(39, 174, 96, 0.3);
+}
+
+/* Layout overrides */
+
+.page-city .content-grid {
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+}
+
+.page-city .main-content,
+.page-city .sidebar {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.page-city .main-content {
+  position: relative;
+  padding-left: 3.5rem;
+}
+
+.page-city .main-content::before {
+  content: '';
+  position: absolute;
+  left: 1.5rem;
+  top: 2rem;
+  bottom: 2rem;
+  width: 3px;
+  background: linear-gradient(180deg, rgba(39, 174, 96, 0.8), rgba(111, 207, 151, 0.2));
+  border-radius: 999px;
+}
+
+.page-city .sidebar {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.page-city .sidebar-box {
+  flex: 1 1 280px;
+}

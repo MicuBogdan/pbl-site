@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="7 Cetăți din Apocalipsa - Reportaj interactiv multilingv despre locurile misterioase menționate în Cartea Apocalipsei">
+  <meta name="theme-color" content="#8B4513">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Septem Civitates">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231a1a2e' width='100' height='100'/><text x='50' y='60' font-size='40' font-weight='bold' fill='%23f1a208' text-anchor='middle'>S</text></svg>">
+  <title>Septem Civitates - Articole despre Cetati Antice</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body class="homepage page-home">
+  <header>
+    <nav>
+      <div class="logo">SEPTEM CIVITATES</div>
+      <div class="nav-right">
+        <div class="lang-selector">
+      <!---    <button class="lang-btn active" data-lang="ro">RO</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="fr">FR</button> -->
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="map-section map-section-full">
+      <div class="map-shell">
+        <aside class="map-panel map-panel-left" aria-hidden="true">
+          <div class="map-panel-card">
+            <h3>Selecție Rapidă</h3>
+            <p>Apasă pe marker pentru a deschide pagina unei cetăți.</p>
+            <div class="map-panel-stat">
+              <span>7</span>
+              <small>Cetăți istorice</small>
+            </div>
+          </div>
+        </aside>
+
+        <div class="map-canvas" role="navigation" aria-label="Harta celor 7 cetăți">
+          <div id="cities-map" class="map-instance"></div>
+          <div class="map-overlay">
+            <div class="map-overlay-chip">Asia Mică</div>
+            <div class="map-overlay-chip">Sec. I-II</div>
+          </div>
+        </div>
+
+        <div class="mobile-city-list" id="mobile-city-list">
+          <!-- Lista mobilă va fi generată dinamic -->
+        </div>
+
+        
+      </div>
+    </section>
+  </main>
+<!---
+  <footer>
+    <p data-i18n="footer.copyright">&copy; 2026 Septem Civitates - Reportaj Interactiv. Toate drepturile rezervate.</p>
+    <div class="footer-links">
+      <a href="#" data-i18n="footer.about">Despre</a>
+      <a href="#" data-i18n="footer.contact">Contact</a>
+      <a href="#" data-i18n="footer.sources">Surse</a>
+    </div>
+  </footer>
+
+-->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

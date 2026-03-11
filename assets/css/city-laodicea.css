@@ -1,0 +1,53 @@
+/* Laodicea - gold, reflective */
+
+body.page-city {
+  background: linear-gradient(180deg, #fff7e0 0%, #ffffff 60%);
+}
+
+.page-city .city-header {
+  background: linear-gradient(135deg, #3a2a0a 0%, #6b4a12 55%, #f2c94c 100%);
+  border-bottom: 6px solid rgba(242, 201, 76, 0.6);
+}
+
+.page-city .main-content {
+  background: #fffdf5;
+  border: 1px solid rgba(242, 201, 76, 0.35);
+  box-shadow: 0 10px 24px rgba(107, 74, 18, 0.12);
+}
+
+.page-city .main-content h2 {
+  border-bottom-color: #f2c94c;
+}
+
+.page-city .sidebar-box {
+  border-left: 6px solid #f2c94c;
+  background: #fff8e8;
+}
+
+.page-city .adventure-section {
+  background: linear-gradient(135deg, rgba(242, 201, 76, 0.2) 0%, rgba(242, 153, 74, 0.12) 100%);
+}
+
+.page-city .video-container {
+  border: 3px solid rgba(242, 201, 76, 0.4);
+}
+
+/* Layout overrides */
+
+.page-city .city-header {
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+}
+
+.page-city .content-grid {
+  grid-template-columns: 2.4fr 1fr;
+  gap: 3.5rem;
+}
+
+.page-city .sidebar-box {
+  border-radius: 0;
+  border-left-width: 8px;
+}
+
+.page-city .adventure-section {
+  border-radius: 0;
+}

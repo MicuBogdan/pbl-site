@@ -1,0 +1,283 @@
+{
+  "cities": [
+    {
+      "id": "efes",
+      "name": {
+        "ro": "Efesul",
+        "en": "Ephesus",
+        "fr": "Éphèse"
+      },
+      "region": {
+        "ro": "Asia Mică (Turcia actuală)",
+        "en": "Asia Minor (present-day Turkey)",
+        "fr": "Asie Mineure (Turquie actuelle)"
+      },
+      "era": {
+        "ro": "Perioada romană, sec. I-II",
+        "en": "Roman period, 1st-2nd century",
+        "fr": "Période romaine, Ier-IIe siècles"
+      },
+      "videoId": "dQw4w9WgXcQ",
+      "shortDescription": {
+        "ro": "Cea mai bogată și influența cetate din Asia Mică, renumită pentru Templul Dianei.",
+        "en": "The richest and most influential city in Asia Minor, famous for the Temple of Diana.",
+        "fr": "La ville la plus riche et la plus influente d'Asie Mineure, célèbre pour le Temple de Diane."
+      },
+      "highlights": {
+        "ro": ["Templul Dianei", "Port comercial major", "Centru cultural al Bisericii timpurii"],
+        "en": ["Temple of Diana", "Major trade port", "Early Church cultural center"],
+        "fr": ["Temple de Diane", "Port commercial majeur", "Centre culturel de l'Église primitive"]
+      },
+      "reasons": {
+        "ro": ["Ruine antice spectaculoase", "Istorie bogată a creștinismului timpuriu", "Peisaj scenic"],
+        "en": ["Spectacular ancient ruins", "Rich history of early Christianity", "Scenic landscape"],
+        "fr": ["Ruines antiques spectaculaires", "Histoire riche du christianisme primitif", "Paysage pittoresque"]
+      }
+    },
+    {
+      "id": "smirna",
+      "name": {
+        "ro": "Smirna",
+        "en": "Smyrna",
+        "fr": "Smyrne"
+      },
+      "region": {
+        "ro": "Asia Mică (Turcia actuală)",
+        "en": "Asia Minor (present-day Turkey)",
+        "fr": "Asie Mineure (Turquie actuelle)"
+      },
+      "era": {
+        "ro": "Perioada romană, sec. I-II",
+        "en": "Roman period, 1st-2nd century",
+        "fr": "Période romaine, Ier-IIe siècles"
+      },
+      "videoId": "dQw4w9WgXcQ",
+      "shortDescription": {
+        "ro": "Cetate portuară prospură pe Marea Egee, centru de comerț și cultură.",
+        "en": "Prosperous port city on the Aegean Sea, center of trade and culture.",
+        "fr": "Ville portuaire prospère sur la mer Égée, centre du commerce et de la culture."
+      },
+      "highlights": {
+        "ro": ["Port Egeu important", "Piață comercială vibrantă", "Tradiții culturale bogate"],
+        "en": ["Important Aegean port", "Vibrant trade market", "Rich cultural traditions"],
+        "fr": ["Port égéen important", "Marché commercial animé", "Traditions culturelles riches"]
+      },
+      "reasons": {
+        "ro": ["Viste maritime frumoase", "Ruine ale piețelor antice", "Spiritualitate profundă"],
+        "en": ["Beautiful maritime views", "Ruins of ancient markets", "Profound spirituality"],
+        "fr": ["Belles vues maritimes", "Ruines des marchés antiques", "Spiritualité profonde"]
+      }
+    },
+    {
+      "id": "pergam",
+      "name": {
+        "ro": "Pergamul",
+        "en": "Pergamum",
+        "fr": "Pergame"
+      },
+      "region": {
+        "ro": "Asia Mică (Turcia actuală)",
+        "en": "Asia Minor (present-day Turkey)",
+        "fr": "Asie Mineure (Turquie actuelle)"
+      },
+      "era": {
+        "ro": "Perioada elenistică și romană, sec. II-I î.H. și I-II p.H.",
+        "en": "Hellenistic and Roman period, 2nd-1st BC and 1st-2nd AD",
+        "fr": "Période hellénistique et romaine, IIe-Ier av. J.-C. et Ier-IIe ap. J.-C."
+      },
+      "videoId": "dQw4w9WgXcQ",
+      "shortDescription": {
+        "ro": "Cetate înaltă cu bibliotecă faimoasă și centru medical de reputație mondială.",
+        "en": "Hilltop city with famous library and world-renowned medical center.",
+        "fr": "Ville sur colline avec bibliothèque célèbre et centre médical de renommée mondiale."
+      },
+      "highlights": {
+        "ro": ["Biblioteca Pergamului", "Asclepieion (spital antic)", "Triumphal Arch al lui Traian"],
+        "en": ["Library of Pergamum", "Asclepieion (ancient hospital)", "Trajan's Triumphal Arch"],
+        "fr": ["Bibliothèque de Pergame", "Asclépiéion (hôpital antique)", "Arc de Triomphe de Trajan"]
+      },
+      "reasons": {
+        "ro": ["Parchmentul a fost inventat aici", "Ansamblu cultural impresionant", "Vedere panoramică"],
+        "en": ["Parchment was invented here", "Impressive cultural complex", "Panoramic views"],
+        "fr": ["Le parchemin a été inventé ici", "Complexe culturel impressionnant", "Vues panoramiques"]
+      }
+    },
+    {
+      "id": "tiatira",
+      "name": {
+        "ro": "Tiatira",
+        "en": "Thyatira",
+        "fr": "Thyatire"
+      },
+      "region": {
+        "ro": "Asia Mică (Turcia actuală)",
+        "en": "Asia Minor (present-day Turkey)",
+        "fr": "Asie Mineure (Turquie actuelle)"
+      },
+      "era": {
+        "ro": "Perioada romană, sec. I-II",
+        "en": "Roman period, 1st-2nd century",
+        "fr": "Période romaine, Ier-IIe siècles"
+      },
+      "videoId": "dQw4w9WgXcQ",
+      "shortDescription": {
+        "ro": "Cetate cunoscută pentru meșterii vopselilor și producători de texturi purpurii.",
+        "en": "City famous for dyers and makers of purple fabrics.",
+        "fr": "Ville célèbre pour ses teinturiers et producteurs de tissus pourpres."
+      },
+      "highlights": {
+        "ro": ["Centrul meșterilor de coloranți", "Producția textilă de lux", "Comerț cu vopsele"],
+        "en": ["Center of dyer craftsmen", "Luxury textile production", "Dye trade"],
+        "fr": ["Centre des artisans teinturiers", "Production textile de luxe", "Commerce des teintures"]
+      },
+      "reasons": {
+        "ro": ["Istoria artizanatului medieval", "Trasee comerciale antice", "Atractivitate culturală unică"],
+        "en": ["Medieval craftsmanship history", "Ancient trade routes", "Unique cultural appeal"],
+        "fr": ["Histoire de l'artisanat médiéval", "Routes commerciales antiques", "Attrait culturel unique"]
+      }
+    },
+    {
+      "id": "sardis",
+      "name": {
+        "ro": "Sardisul",
+        "en": "Sardis",
+        "fr": "Sardes"
+      },
+      "region": {
+        "ro": "Asia Mică (Turcia actuală)",
+        "en": "Asia Minor (present-day Turkey)",
+        "fr": "Asie Mineure (Turquie actuelle)"
+      },
+      "era": {
+        "ro": "Perioada elenistică și romană, sec. III î.H. - sec. II p.H.",
+        "en": "Hellenistic and Roman period, 3rd BC - 2nd AD century",
+        "fr": "Période hellénistique et romaine, IIIe av. J.-C. - IIe ap. J.-C."
+      },
+      "videoId": "dQw4w9WgXcQ",
+      "shortDescription": {
+        "ro": "Capitala regatului Lidia, centru de putere și bogăție din Orientul Antic.",
+        "en": "Capital of the Lydian kingdom, center of power and wealth in the Ancient East.",
+        "fr": "Capitale du royaume de Lydie, centre de pouvoir et de richesse en Orient antique."
+      },
+      "highlights": {
+        "ro": ["Palatul regilor Lidiei", "Temple lui Artemis", "Bani de aur și argint"],
+        "en": ["Palace of Lydian kings", "Temple of Artemis", "Gold and silver coins"],
+        "fr": ["Palais des rois de Lydie", "Temple d'Artémis", "Pièces d'or et d'argent"]
+      },
+      "reasons": {
+        "ro": ["Originile banilor moderni", "Palimpsestul puterilor antice", "Bogății ascunse"],
+        "en": ["Origins of modern currency", "Palimpsest of ancient powers", "Hidden treasures"],
+        "fr": ["Origines de la monnaie moderne", "Palimpseste des puissances antiques", "Trésors cachés"]
+      }
+    },
+    {
+      "id": "filatelia",
+      "name": {
+        "ro": "Filatelia",
+        "en": "Philadelphia",
+        "fr": "Philadelphie"
+      },
+      "region": {
+        "ro": "Asia Mică (Turcia actuală)",
+        "en": "Asia Minor (present-day Turkey)",
+        "fr": "Asie Mineure (Turquie actuelle)"
+      },
+      "era": {
+        "ro": "Perioada elenistică și romană, sec. II î.H. - sec. II p.H.",
+        "en": "Hellenistic and Roman period, 2nd BC - 2nd AD century",
+        "fr": "Période hellénistique et romaine, IIe av. J.-C. - IIe ap. J.-C."
+      },
+      "videoId": "dQw4w9WgXcQ",
+      "shortDescription": {
+        "ro": "Cetate a prieteniei și dragostei frățești, cu o comunitate creștină blândă.",
+        "en": "City of friendship and brotherly love, with a gentle Christian community.",
+        "fr": "Ville de l'amitié et de l'amour fraternel, avec une communauté chrétienne douce."
+      },
+      "highlights": {
+        "ro": ["Marca prieteniei", "Comunitate creștină pașnică", "Deschidere către credință"],
+        "en": ["Mark of friendship", "Peaceful Christian community", "Openness to faith"],
+        "fr": ["Marque de l'amitié", "Communauté chrétienne pacifique", "Ouverture à la foi"]
+      },
+      "reasons": {
+        "ro": ["Spiritualitate blândă și incluzivă", "Legătură ușor de înțeles", "Mesaj de speranță"],
+        "en": ["Gentle and inclusive spirituality", "Easy-to-understand connection", "Message of hope"],
+        "fr": ["Spiritualité douce et inclusive", "Connexion facile à comprendre", "Message d'espoir"]
+      }
+    },
+    {
+      "id": "laodicea",
+      "name": {
+        "ro": "Laodicea",
+        "en": "Laodicea",
+        "fr": "Laodicée"
+      },
+      "region": {
+        "ro": "Asia Mică (Turcia actuală)",
+        "en": "Asia Minor (present-day Turkey)",
+        "fr": "Asie Mineure (Turquie actuelle)"
+      },
+      "era": {
+        "ro": "Perioada elenistică și romană, sec. III î.H. - sec. II p.H.",
+        "en": "Hellenistic and Roman period, 3rd BC - 2nd AD century",
+        "fr": "Période hellénistique et romaine, IIIe av. J.-C. - IIe ap. J.-C."
+      },
+      "videoId": "dQw4w9WgXcQ",
+      "shortDescription": {
+        "ro": "Cetate bogată și independentă, dar cu o comunitate creștină tiepidă și nepăsătoare.",
+        "en": "Rich and independent city, but with an indifferent Christian community.",
+        "fr": "Ville riche et indépendante, mais avec une communauté chrétienne indifférente."
+      },
+      "highlights": {
+        "ro": ["Bogăție comercială", "Independență politică", "Apă termală faimoasă"],
+        "en": ["Commercial wealth", "Political independence", "Famous hot springs"],
+        "fr": ["Richesse commerciale", "Indépendance politique", "Célèbres sources thermales"]
+      },
+      "reasons": {
+        "ro": ["Contraste filosofice profunde", "Ruine ale puterii materiale", "Lecții despre detașare"],
+        "en": ["Profound philosophical contrasts", "Ruins of material power", "Lessons on detachment"],
+        "fr": ["Contrastes philosophiques profonds", "Ruines du pouvoir matériel", "Leçons sur le détachement"]
+      }
+    }
+  ],
+  "translations": {
+    "ro": {
+      "hero.title": "Septem Civitates",
+      "hero.subtitle": "O călătorie interactivă prin cele 7 cetăți misterioase din Apocalipsa",
+      "nav.home": "Acasă",
+      "breadcrumb.home": "Acasă",
+      "sidebar.highlights": "Informații Cheie",
+      "sidebar.visit": "De ce să vizitezi",
+      "adventure.title": "Alege-ți Povestea",
+      "footer.copyright": "2026 Septem Civitates. Toate drepturile rezervate.",
+      "footer.about": "Despre",
+      "footer.contact": "Contact",
+      "footer.sources": "Surse"
+    },
+    "en": {
+      "hero.title": "Septem Civitates",
+      "hero.subtitle": "An interactive journey through the 7 mysterious cities from the Apocalypse",
+      "nav.home": "Home",
+      "breadcrumb.home": "Home",
+      "sidebar.highlights": "Key Information",
+      "sidebar.visit": "Why Visit",
+      "adventure.title": "Choose Your Story",
+      "footer.copyright": "2026 Septem Civitates. All rights reserved.",
+      "footer.about": "About",
+      "footer.contact": "Contact",
+      "footer.sources": "Sources"
+    },
+    "fr": {
+      "hero.title": "Septem Civitates",
+      "hero.subtitle": "Un voyage interactif à travers les 7 villes mystérieuses de l'Apocalypse",
+      "nav.home": "Accueil",
+      "breadcrumb.home": "Accueil",
+      "sidebar.highlights": "Informations Clés",
+      "sidebar.visit": "Pourquoi Visiter",
+      "adventure.title": "Choisissez Votre Histoire",
+      "footer.copyright": "2026 Septem Civitates. Tous droits réservés.",
+      "footer.about": "À Propos",
+      "footer.contact": "Contact",
+      "footer.sources": "Sources"
+    }
+  }
+}

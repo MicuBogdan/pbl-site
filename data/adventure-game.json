@@ -1,0 +1,362 @@
+{
+  "adventure": {
+    "efes": {
+      "ro": [
+        {
+          "id": "start",
+          "text": "Ești într-o noapte strălucitoare la Efes. Templul Dianei strălucește în fața ta. Poți auzi zgomotul piețelor îndepărtate. Ce faci?",
+          "choices": [
+            {
+              "text": "Intri în Templu pentru a explora tainicelui",
+              "next": "temple"
+            },
+            {
+              "text": "Te bălătești pe piață pentru a auzi poveștile comercianților",
+              "next": "market"
+            },
+            {
+              "text": "Urci pe zidurile cetății pentru o vedere de ansamblu",
+              "next": "walls"
+            }
+          ]
+        },
+        {
+          "id": "temple",
+          "text": "Intri în Temple. Coloanele uriaşe te privesc. Mirosi tămâie și auzi glas de rugăciune din umbră...",
+          "choices": [
+            {
+              "text": "Urmezi vocea și descoperi o cripă cu antichități",
+              "next": "crypt"
+            },
+            {
+              "text": "Examinez sculpturile și găsești un mesaj secret",
+              "next": "sculpture"
+            }
+          ]
+        },
+        {
+          "id": "market",
+          "text": "La piață, comercianții te povestesc despre corupțiile puterii și despărțirile între ricii oraşului...",
+          "choices": [
+            {
+              "text": "Îl întrebi pe un comerciant bătrân despre adevărul din umbră",
+              "next": "merchant_truth"
+            },
+            {
+              "text": "Observi o întâlnire secretă și decizi să o urmărești",
+              "next": "secret_meeting"
+            }
+          ]
+        },
+        {
+          "id": "walls",
+          "text": "De pe ziduri, privești Marea Egee strălucind sub lună. Vaporii întunecați plutesc pe ape...",
+          "choices": [
+            {
+              "text": "Descoperi o cale ascunsă către portul secret",
+              "next": "secret_port"
+            },
+            {
+              "text": "Spioni îți spun că o armată venind...",
+              "next": "army_coming"
+            }
+          ]
+        },
+        {
+          "id": "crypt",
+          "text": "Cripa conține artefacte rare și o carte antică. Textele vorbesc despre pieirea Efesului...",
+          "result": "Ai descoperit secretele Templului și ai înțeles că civilizațiile mari cad din cauza nedreptății interne. Mesajul este universal și eternal."
+        },
+        {
+          "id": "sculpture",
+          "text": "Sculpturile povestesc despre stăpânii oraşului și despre cum a decăzut din cauza lăcomiei.",
+          "result": "Arta a păstrat memoria adevărului pentru generații. Ai de-a face cu dovezi palpabile ale timpului."
+        },
+        {
+          "id": "merchant_truth",
+          "text": "Comerciantul bătrân îți dezvăluie că puterea urmează o cale, indiferent cât de coruptă...",
+          "result": "Ai învățat că adevărul din piață este adesea mai cruel decât adevărul politic. Compassiunea este cheia."
+        },
+        {
+          "id": "secret_meeting",
+          "text": "Întâlnirea este între disidenți care plănuiesc schimbări în societate...",
+          "result": "Ai descoperit că schimbarea vine din umbră, dar doar dacă oamenii sunt dispuși să riște pentru ea."
+        },
+        {
+          "id": "secret_port",
+          "text": "Portul ascuns este plin cu nave care cărăușa mărfuri interzise și oameni fugari...",
+          "result": "Libertatea are un preț. Unii aleg supravieţuirea, alţii aleg dreptatea. Ambele cărări sunt grele."
+        },
+        {
+          "id": "army_coming",
+          "text": "O armată se apropie. Cetatea va trebui să se apere sau să se predea. Soarta ei este sigilată...",
+          "result": "Nici o cetate nu este invincibilă. Istoria este plină de căderi și renaşteri. Efesul a trăit ambele."
+        }
+      ],
+      "en": [
+        {
+          "id": "start",
+          "text": "You are in a sparkling night in Ephesus. The Temple of Diana shines before you. You can hear the distant noise of markets. What do you do?",
+          "choices": [
+            {
+              "text": "Enter the Temple to explore its secrets",
+              "next": "temple"
+            },
+            {
+              "text": "Walk through the market to hear merchants' stories",
+              "next": "market"
+            },
+            {
+              "text": "Climb the city walls for an overview",
+              "next": "walls"
+            }
+          ]
+        },
+        {
+          "id": "temple",
+          "text": "You enter the Temple. Enormous columns surround you. You smell incense and hear prayer voices from the shadows...",
+          "choices": [
+            {
+              "text": "Follow the voice and discover a crypt with antiquities",
+              "next": "crypt"
+            },
+            {
+              "text": "Examine the sculptures and find a secret message",
+              "next": "sculpture"
+            }
+          ]
+        },
+        {
+          "id": "market",
+          "text": "At the market, merchants tell you about corruption of power and divisions among the rich...",
+          "choices": [
+            {
+              "text": "Ask an old merchant about truth in the shadows",
+              "next": "merchant_truth"
+            },
+            {
+              "text": "Observe a secret meeting and decide to follow it",
+              "next": "secret_meeting"
+            }
+          ]
+        },
+        {
+          "id": "walls",
+          "text": "From the walls, you watch the Aegean Sea shining under the moon. Dark ships float on the waters...",
+          "choices": [
+            {
+              "text": "Discover a hidden passage to the secret port",
+              "next": "secret_port"
+            },
+            {
+              "text": "Spies tell you an army is coming...",
+              "next": "army_coming"
+            }
+          ]
+        },
+        {
+          "id": "crypt",
+          "text": "The crypt contains rare artifacts and an ancient book. The texts speak of Ephesus's decline...",
+          "result": "You discovered the Temple's secrets and understood that great civilizations fall due to internal injustice. The message is universal and eternal."
+        },
+        {
+          "id": "sculpture",
+          "text": "The sculptures tell about the city's rulers and how it declined due to greed.",
+          "result": "Art has preserved the memory of truth for generations. You hold tangible evidence of time."
+        },
+        {
+          "id": "merchant_truth",
+          "text": "The old merchant reveals that power follows a path, no matter how corrupt...",
+          "result": "You learned that marketplace truth is often crueler than political truth. Compassion is the key."
+        },
+        {
+          "id": "secret_meeting",
+          "text": "The meeting is between dissidents planning changes in society...",
+          "result": "You discovered that change comes from shadows, but only if people are willing to risk for it."
+        },
+        {
+          "id": "secret_port",
+          "text": "The secret port is full of ships carrying contraband and refugees...",
+          "result": "Freedom has a price. Some choose survival, others choose justice. Both paths are heavy."
+        },
+        {
+          "id": "army_coming",
+          "text": "An army approaches. The city must defend itself or surrender. Its fate is sealed...",
+          "result": "No city is invincible. History is full of falls and rebirths. Ephesus experienced both."
+        }
+      ],
+      "fr": [
+        {
+          "id": "start",
+          "text": "Vous êtes dans une nuit scintillante à Éphèse. Le Temple de Diane brille devant vous. Vous pouvez entendre le bruit lointain des marchés. Que faites-vous?",
+          "choices": [
+            {
+              "text": "Entrez dans le Temple pour explorer ses secrets",
+              "next": "temple"
+            },
+            {
+              "text": "Promenez-vous sur le marché pour entendre les histoires des marchands",
+              "next": "market"
+            },
+            {
+              "text": "Grimpez sur les murs de la ville pour une vue d'ensemble",
+              "next": "walls"
+            }
+          ]
+        },
+        {
+          "id": "temple",
+          "text": "Vous entrez dans le Temple. Les énormes colonnes vous entourent. Vous sentez l'encens et entendez des voix de prière dans les ombres...",
+          "choices": [
+            {
+              "text": "Suivez la voix et découvrez une crypte avec des antiquités",
+              "next": "crypt"
+            },
+            {
+              "text": "Examinez les sculptures et trouvez un message secret",
+              "next": "sculpture"
+            }
+          ]
+        },
+        {
+          "id": "market",
+          "text": "Au marché, les marchands vous parlent de la corruption du pouvoir et des divisions entre les riches...",
+          "choices": [
+            {
+              "text": "Demandez à un vieux marchand la vérité dans les ombres",
+              "next": "merchant_truth"
+            },
+            {
+              "text": "Observez une réunion secrète et décidez de la suivre",
+              "next": "secret_meeting"
+            }
+          ]
+        },
+        {
+          "id": "walls",
+          "text": "Depuis les murs, vous regardez la mer Égée briller sous la lune. Des navires sombres flottent sur les eaux...",
+          "choices": [
+            {
+              "text": "Découvrez un passage caché vers le port secret",
+              "next": "secret_port"
+            },
+            {
+              "text": "Les espions vous disent qu'une armée arrive...",
+              "next": "army_coming"
+            }
+          ]
+        },
+        {
+          "id": "crypt",
+          "text": "La crypte contient des artefacts rares et un livre ancien. Les textes parlent du déclin d'Éphèse...",
+          "result": "Vous avez découvert les secrets du Temple et compris que les grandes civilisations tombent à cause de l'injustice interne. Le message est universel et éternel."
+        },
+        {
+          "id": "sculpture",
+          "text": "Les sculptures racontent l'histoire des dirigeants de la ville et comment elle a décliné à cause de la cupidité.",
+          "result": "L'art a préservé la mémoire de la vérité pour les générations. Vous tenez des preuves tangibles du temps."
+        },
+        {
+          "id": "merchant_truth",
+          "text": "Le vieux marchand révèle que le pouvoir suit un chemin, peu importe sa corruption...",
+          "result": "Vous avez appris que la vérité du marché est souvent plus cruelle que la vérité politique. La compassion est la clé."
+        },
+        {
+          "id": "secret_meeting",
+          "text": "La réunion est entre des dissidents planifiant des changements dans la société...",
+          "result": "Vous avez découvert que le changement vient des ombres, mais seulement si les gens sont prêts à risquer pour cela."
+        },
+        {
+          "id": "secret_port",
+          "text": "Le port secret est rempli de navires transportant des contrebandes et des réfugiés...",
+          "result": "La liberté a un prix. Certains choisissent la survie, d'autres choisissent la justice. Les deux chemins sont difficiles."
+        },
+        {
+          "id": "army_coming",
+          "text": "Une armée s'approche. La ville doit se défendre ou se rendre. Son destin est scellé...",
+          "result": "Aucune ville n'est invincible. L'histoire est pleine de chutes et de renaissances. Éphèse a connu les deux."
+        }
+      ]
+    },
+    "smirna": {
+      "ro": [
+        {
+          "id": "start",
+          "text": "Ești pe malurile Mării Egee la Smirna. O cărămidă roșie strălucește sub apus. Ce alegi?",
+          "choices": [
+            {
+              "text": "Explorezi portul și întâlnești marinarii",
+              "next": "port"
+            },
+            {
+              "text": "Urci în cetate pentru a afla poveștile oamenilor",
+              "next": "city"
+            }
+          ]
+        },
+        {
+          "id": "port",
+          "text": "La port, marinarii povestesc despre furtuni și treasuri pierdute...",
+          "result": "Marea are propriile legende. Unele sunt adevărate, altele doar speranță omenească."
+        },
+        {
+          "id": "city",
+          "text": "În cetate, oamenii vorbesc despre speranță și renaștere...",
+          "result": "Smirna a fost distruse și reconstruite. Datoranța ei este speranța și rezistența."
+        }
+      ],
+      "en": [
+        {
+          "id": "start",
+          "text": "You are on the shores of the Aegean Sea in Smyrna. Red bricks glow under sunset. What do you choose?",
+          "choices": [
+            {
+              "text": "Explore the port and meet sailors",
+              "next": "port"
+            },
+            {
+              "text": "Climb into the city to learn people's stories",
+              "next": "city"
+            }
+          ]
+        },
+        {
+          "id": "port",
+          "text": "At the port, sailors tell you about storms and lost treasures...",
+          "result": "The sea has its own legends. Some are true, others just human hope."
+        },
+        {
+          "id": "city",
+          "text": "In the city, people talk about hope and rebirth...",
+          "result": "Smyrna was destroyed and rebuilt. Its debt is hope and resilience."
+        }
+      ],
+      "fr": [
+        {
+          "id": "start",
+          "text": "Vous êtes sur les rives de la mer Égée à Smyrne. Des briques rouges brillent sous le coucher du soleil. Que choisissez-vous?",
+          "choices": [
+            {
+              "text": "Explorez le port et rencontrez des marins",
+              "next": "port"
+            },
+            {
+              "text": "Montez dans la ville pour connaître les histoires des gens",
+              "next": "city"
+            }
+          ]
+        },
+        {
+          "id": "port",
+          "text": "Au port, les marins vous racontent des histoires de tempêtes et de trésors perdus...",
+          "result": "La mer a ses propres légendes. Certaines sont vraies, d'autres juste espoir humain."
+        },
+        {
+          "id": "city",
+          "text": "Dans la ville, les gens parlent d'espoir et de renaissance...",
+          "result": "Smyrne a été détruite et reconstruite. Sa dette est l'espoir et la résilience."
+        }
+      ]
+    }
+  }
+}
