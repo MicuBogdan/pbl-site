@@ -1,41 +1,15 @@
-# Ephesus - The City of Diana
+Efes \- Cetatea care și-a păstrat credința
 
-## History
+Aspecte Pozitive
 
-Ephesus, known as Ephesus in antiquity, was one of the most important and prosperous cities of Asia Minor. Located on the shores of the Aegean Sea, it evolved over many centuries from an Ionian colony to the commercial capital of the Pergamon kingdom, and then to a Roman province.
+1. **Lucrează cu hărnicie**  
+2. **Nu tolerează răul**  
+3. **Cercetează adevărul**  
+4. **Sunt răbdători**  
+5. **Nume de credincioși**
 
-During its heyday, Ephesus was known for:
+**Efes a fost un important oraș antic grecesc și roman situat în vestul Turciei, lângă Selcuk. A avut un rol semnificativ în prima perioadă a creștinismului și în dezvoltarea culturală romană. În secolul X î.Hr., în perioada elenistică, a devenit un port important. Era renumit pentru Templul zeiței Artemis, una dintre minunile lumii antice. În anul 133 î.Hr. a fost ocupat de romani și a devenit capitala provinciei Asia.În epoca romană a cunoscut o mare înflorire economică și urbanistică. Au fost construite monumente celebre precum Marele Teatru și Biblioteca lui Celsus. Efes a fost mult timp un centru religios major al lumii antice. În secolul I d.Hr., apostolul Pavel a format aici o comunitate creștină puternică. În anul 431 a avut loc Conciliul de la Efes, important pentru doctrina creștină. Declinul orașului a fost cauzat de colmatarea portului, cutremure și invazii. În Evul Mediu a fost aproape abandonat, iar astăzi ruinele sale amintesc de trecutul său glorios.**
 
-- **The Temple of Diana (Artemision)** - one of the Seven Wonders of the Ancient World
-- **A vibrant marketplace** that attracted merchants from all over the Mediterranean
-- **Impressive architecture** including theaters and world-renowned libraries
+**În cartea Apocalipsa, Biserica din Efes primește un mesaj direct din partea lui Hristos, prin apostolul Ioan. Comunitatea este lăudată pentru credința, răbdarea și statornicia ei, precum și pentru faptul că a respins învățăturile false și pe cei care pretindeau pe nedrept că sunt apostoli. Totuși, mesajul conține și un avertisment serios: credincioșii și-au pierdut dragostea dintâi, acea iubire curată și profundă pentru Dumnezeu. Dimensiunea spirituală a chemării este clară – ei sunt îndemnați să-și amintească de unde au căzut, să se pocăiască și să se întoarcă la faptele făcute din dragoste sinceră. Accentul cade pe relația vie cu Dumnezeu, nu doar pe corectitudinea doctrinară. Mesajul subliniază că fidelitatea exterioară trebuie însoțită de o inimă aprinsă de iubire. Celui ce va birui i se promite accesul la pomul vieții, simbol al comuniunii veșnice cu Dumnezeu.**
 
-## Spiritual Message
-
-According to Revelation, Ephesus was the first of the seven cities to which divine letters were sent. The Christian community was criticized for losing its first love, although it remained faithful in doctrine.
-
-> *"I know your works, your labor and your patience... But I have this against you: you have left your first love."*
-
-This is a timeless warning: even apparently stable and prosperous institutions can become empty inside if they lose the essence of love and purpose.
-
-## Why Visit Ephesus
-
-1. **Ruins of the Temple of Diana** - Remnants of one of the ancient world's greatest monuments. The partially preserved columns are breathtaking.
-
-2. **Celsus Library** - A remarkable architectural work that preserved the knowledge of ancient civilization.
-
-3. **The Great Theater** - Capacity for 24,000 spectators, still impressive today.
-
-4. **Arcadian Street** - The road that connected the temple to the port, now a path full of history.
-
-5. **Religion and Spirituality** - The place where paganism and early Christianity met, creating a profound exchange of thought and belief.
-
-## The Impact of Ephesus
-
-Ephesus was not just an old city. It was a symbol of:
-
-- **The Ambiguity of Progress** - how material prosperity does not guarantee spiritual peace
-- **Religious Transformation** - from the worship of Diana to the acceptance of Christianity
-- **Decline and Renaissance** - from magnificence to ruins, then to historical recognition
-
-Today, Ephesus reminds us that civilizations are not eternal, but neither are their memories. What we build today becomes testimony for the future.
+ **„Celui ce învinge îi voi da să mănânce din Pomul Vieții, care se află în Raiul lui Dumnezeu.”  \- Apocalipsa 2:7**

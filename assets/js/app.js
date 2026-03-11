@@ -153,13 +153,19 @@ class SevenCitiesApp {
   }
 
   getTranslation(key, lang) {
+    const languageTranslations = this.translations?.[lang] || {};
+
+    if (languageTranslations[key]) {
+      return languageTranslations[key];
+    }
+
     const keys = key.split('.');
-    let value = this.translations[lang];
-    
+    let value = languageTranslations;
+
     for (let k of keys) {
       value = value?.[k];
     }
-    
+
     return value || key;
   }
 
@@ -318,7 +324,7 @@ class SevenCitiesApp {
     }
 
     // Set page title
-    document.title = `${city.name[this.currentLang]} - Septem Civitates`;
+    document.title = `${city.name[this.currentLang]} - 7 Cetăți`;
 
     // Render city header
     this.renderCityHeader(city);

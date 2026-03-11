@@ -1,26 +1,16 @@
-# Sardis - The City of Kings
+# Sardes - Reputație fără viață spirituală
 
-## History
+## Aspecte Pozitive
+1. **Credincioși rămași**
+2. **Viață existentă**
+3. **Șansă divină**
+4. **Promisiuni veșnice**
+5. **Trecut spiritual**
 
-Sardis was the capital of one of the most powerful kingdoms in antiquity - the Lydian kingdom. Under King Croesus, Sardis was synonymous with wealth and power. The city was the first to mint gold and silver coins.
+## Context istoric
+Sardes a fost capitala regatului Lidia, unul dintre cele mai prospere state ale Asiei Mici în Antichitate. În secolul al VII-lea î.Hr., la Sardes au fost emise unele dintre primele monede din lume. Orașul era cunoscut pentru bogăția și gloria sa trecută.
 
-## Spiritual Message
+## Mesaj spiritual
+Sardes este una dintre cele șapte biserici menționate în Apocalipsa 3:1-6. Deși avea reputația că trăiește, în realitate era moartă spiritual. Mesajul este o chemare la trezire, la pocăință și la întoarcerea la credincioșie autentică.
 
-Revelation sends Sardis a severe warning:
-
-> *"I know your works; you have a reputation of being alive, but you are dead..."*
-
-Sardis was a city that appeared prosperous and powerful, but was empty inside. The message is about false appearance and the need for spiritual rebirth.
-
-## Why Visit Sardis
-
-1. **Palace of King Croesus** - Ruins of one of the richest ancient capitals
-2. **First Gold Coins** - Birthplace of modern money
-3. **Extraordinary Temples** - Remnants of Greek and Persian architecture
-4. **Fortified Walls** - Remarkable defenses of an ancient power
-
-## Central Themes
-
-- **Illusions of Power** - how appearance can be deceptive
-- **Inheritance** - how the kingdom collapsed despite wealth
-- **Rebirth** - necessity for change and transformation
+> **„Adu-ți aminte, deci, ce ai primit și auzit!” — Apocalipsa 3:3**

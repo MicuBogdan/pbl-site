@@ -1,26 +1,17 @@
-# Tiatira - Orașul Meșterilor
+**Tiatira – Toleranța care ucide sfințenia**
 
-## Istoric
+**Aspecte Pozitive**
 
-Tiatira era o cetate mică dar de importanță comercială majoră. Situată pe o cale comercială importantă din Asia Mică, ea a prosperat datorită meșteșugurilor specialized, în special producția de tex și coloranți purpurii.
+1. **Activitate intensă**  
+2. **Motivație curată**  
+3. **Loialitate**  
+4. **Dedicare**  
+5. **Perseverență**
 
-## Mesajul Spiritual
+**Tiatira era un oraș prosper din Asia Mică, situat în valea râului Lycus, cunoscut mai ales ca un important centru comercial. Era faimos pentru breslele sale, în special pentru industria textilă și vopsirea purpurei. Viața economică a orașului era strâns legată de aceste bresle, care aveau adesea ritualuri păgâne. În oraș se practicau culturi idolatre, fiind venerați zei precum Apollo și Artemis. Mediul spiritual era profund păgân, iar imoralitatea era larg acceptată. O influență negativă puternică asupra comunității creștine era exercitată de o femeie simbolic numită „Izabela”, care promova idolatria și învățături false, încurajând compromisul moral. Cu toate acestea, în mijlocul acestui context dificil, existau credincioși care rămâneau statornici în credință și refuzau să se conformeze practicilor păgâne ale societății.**
 
-Apocalipsa ii transmite Tiatyrei un mesaj cu elemente de laud și critică:
+**În cartea Apocalipsa, Biserica din Tiatira primește un mesaj direct de la Hristos, prin apostolul Ioan. Domnul îi laudă pentru dragostea, credința, slujirea și răbdarea lor, observând că faptele lor de pe urmă erau mai multe decât cele dintâi. Totuși, biserica este mustrată pentru că a tolerat învățăturile false ale „Izabelei”, care îi duceau pe credincioși la compromis spiritual și păcat. Hristos îi cheamă la pocăință și avertizează asupra judecății celor ce refuză să se întoarcă de la aceste practici. Promisiunea făcută celor ce vor rămâne biruitori este una măreață: autoritate asupra neamurilor și „steaua de dimineață”, simbol al vieții veșnice și al comuniunii cu Hristos. Credincioșii sunt chemați să păstreze ceea ce au și să rămână statornici până la sfârșit.**
 
-> *"Știu lucrările tale... Dar am contra ta că ții pe femeie Izabel..."*
+**„(...)știu faptele tale, dragostea, credința, slujirea și răbdarea ta și știu că ultimele tale fapte sunt mai mari decât primele. “**
 
-Tiatira este elogiată pentru dragoste și serviciu, dar criticată pentru toleranța către corupție și compromisuri.
-
-## De Ce Să Vizitezi Tiatira
-
-1. **Istoria Textilelor Antice** - Locul unde se producea purpura regală
-2. **Meșteșuguri Tradiționale** - Meșterii locali continuă tradițiile antice
-3. **Piețe Autentice** - Atmosfera unui mic orășel comercial
-4. **Legături Biblice** - Lidia, comercianta din Acte, provenea din Tiatira
-
-## Temele Centrale
-
-- **Meserie vs. Compromis** - cum carismă económică poate afecta principiile
-- **Discernământ** - necesitate de a alege ce valori să păstrezi
-- **Comunitate** - importanța conexiunilor autentice în business
+**Apocalipsa 2:19**

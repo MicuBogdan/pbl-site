@@ -1,6 +1,6 @@
 /* ============================================
-   SEPTEM CIVITATES - Professional Modern Design
-   ============================================ */
+  7 CITIES - Professional Modern Design
+  ============================================ */
 
 :root {
   --primary: #1a1a2e;
@@ -847,6 +847,14 @@ main {
   max-width: 1200px;
   padding: 0 2rem;
   text-align: center;
+}
+
+.article-cta-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.9rem;
+  flex-wrap: wrap;
 }
 
 .article-cta-button {

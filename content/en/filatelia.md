@@ -1,26 +1,15 @@
-# Philadelphia - The City of Brotherly Love
+# Filadelfia - Poarta deschisă a iubirii frățești
 
-## History
+## Aspecte Pozitive
+1. **Fidelitate biblică**
+2. **Refuzul apostaziei**
+3. **Rezistență la încercări**
+4. **Depindere totală de Dumnezeu**
 
-Philadelphia, also called Philadelphia in the Roman period, was a small but hopeful city. It had a strategic position and a community of people dedicated to helping one another.
+## Context istoric
+Filadelfia era un oraș din Asia Mică, cunoscut pentru cultura sa elenistică și pentru poziția sa strategică. Orașul a fost afectat frecvent de cutremure, ceea ce dă sens imaginii promisiunii „stâlpilor” în templul lui Dumnezeu.
 
-## Spiritual Message
+## Mesaj spiritual
+Biserica din Filadelfia nu primește mustrare, ci încurajare și promisiuni. Deși avea puțină putere, a păstrat Cuvântul și nu a lepădat Numele lui Hristos. Mesajul cheie este statornicia și păstrarea cununii.
 
-Revelation sends Philadelphia only words of encouragement, with no critique:
-
-> *"I know your works. See, I have placed before you an open door that no one can shut..."*
-
-Philadelphia is the only city mentioned without any reproach. The message is about faithfulness, hope, and openness to divine opportunities.
-
-## Why Visit Philadelphia
-
-1. **Atmosphere of Friendship** - The place where people helped each other
-2. **Small Monuments** - Evidence of a humble but loving community
-3. **History of Rebirth** - How a small community survived centuries
-4. **Connection with Biblical Books** - Letters mentioning this community
-
-## Central Themes
-
-- **Brotherly Love** - you don't have to be big to be important
-- **Hope** - even in hard times, hope remains
-- **Faithfulness** - steadfastness in faith regardless of circumstances
+> **„Știu că, deși ai puțină putere, ai păzit Cuvântul Meu și n-ai negat Numele Meu.” — Apocalipsa 3:8**

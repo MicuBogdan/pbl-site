@@ -1,26 +1,16 @@
-# Thyatira - The City of Craftsmen
+# Tiatira - Toleranța care ucide sfințenia
 
-## History
+## Aspecte Pozitive
+1. **Activitate intensă**
+2. **Motivație curată**
+3. **Loialitate**
+4. **Dedicare**
+5. **Perseverență**
 
-Thyatira was a small but commercially important city. Located on a major trade route in Asia Minor, it flourished due to specialized crafts, especially textile production and purple dye manufacture.
+## Context istoric
+Tiatira era un oraș prosper din Asia Mică, cunoscut ca un important centru comercial. Era faimos pentru breslele sale, în special pentru industria textilă și vopsirea purpurei. Mediul spiritual era profund păgân, iar comunitatea creștină era presată spre compromis.
 
-## Spiritual Message
+## Mesaj spiritual
+Biserica din Tiatira este lăudată pentru dragoste, credință, slujire și răbdare, dar este mustrată pentru tolerarea învățăturilor false ale „Izabelei”. Hristos cheamă la pocăință și la statornicie până la sfârșit.
 
-Revelation sends Thyatira a message with elements of praise and critique:
-
-> *"I know your works... But I have this against you: You tolerate that woman Jezebel..."*
-
-Thyatira is praised for love and service, but criticized for tolerance toward corruption and compromises.
-
-## Why Visit Thyatira
-
-1. **Ancient Textile History** - The place where royal purple was produced
-2. **Traditional Crafts** - Local craftspeople continue ancient traditions
-3. **Authentic Markets** - The atmosphere of a small commercial town
-4. **Biblical Connections** - Lydia, the merchant from Acts, came from Thyatira
-
-## Central Themes
-
-- **Craft vs. Compromise** - how economic prosperity can affect principles
-- **Discernment** - need to choose which values to keep
-- **Community** - importance of authentic connections in business
+> **„Știu faptele tale, dragostea, credința, slujirea și răbdarea ta și știu că ultimele tale fapte sunt mai mari decât primele.” — Apocalipsa 2:19**

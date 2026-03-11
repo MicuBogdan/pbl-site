@@ -1,26 +1,16 @@
-# Thyatire - La Ville des Artisans
+# Tiatira - Toleranța care ucide sfințenia
 
-## Histoire
+## Aspecte Pozitive
+1. **Activitate intensă**
+2. **Motivație curată**
+3. **Loialitate**
+4. **Dedicare**
+5. **Perseverență**
 
-Thyatire était une petite ville mais commercialement importante. Située sur une route commerciale majeure d'Asie Mineure, elle prospérait grâce à des métiers spécialisés, en particulier la production textile et la fabrication de teinture pourpre.
+## Context istoric
+Tiatira era un oraș prosper din Asia Mică, cunoscut ca un important centru comercial. Era faimos pentru breslele sale, în special pentru industria textilă și vopsirea purpurei. Mediul spiritual era profund păgân, iar comunitatea creștină era presată spre compromis.
 
-## Message Spirituel
+## Mesaj spiritual
+Biserica din Tiatira este lăudată pentru dragoste, credință, slujire și răbdare, dar este mustrată pentru tolerarea învățăturilor false ale „Izabelei”. Hristos cheamă la pocăință și la statornicie până la sfârșit.
 
-L'Apocalypse envoie à Thyatire un message avec des éléments d'éloge et de critique:
-
-> *"Je connais tes œuvres... Mais j'ai contre toi que tu tolères cette femme Jézabel..."*
-
-Thyatire est louée pour l'amour et le service, mais critiquée pour la tolérance envers la corruption et les compromis.
-
-## Pourquoi Visiter Thyatire
-
-1. **Histoire Textile Antique** - Le lieu où la pourpre royale était produite
-2. **Métiers Traditionnels** - Les artisans locaux continuent les traditions antiques
-3. **Marchés Authentiques** - L'atmosphère d'une petite ville commerciale
-4. **Connexions Bibliques** - Lydia, la marchande des Actes, venait de Thyatire
-
-## Thèmes Centraux
-
-- **Métier vs. Compromis** - comment la prospérité économique peut affecter les principes
-- **Discernement** - besoin de choisir quelles valeurs garder
-- **Communauté** - importance des connexions authentiques dans les affaires
+> **„Știu faptele tale, dragostea, credința, slujirea și răbdarea ta și știu că ultimele tale fapte sunt mai mari decât primele.” — Apocalipsa 2:19**

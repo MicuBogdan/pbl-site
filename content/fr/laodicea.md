@@ -1,26 +1,12 @@
-# Laodicée - La Ville de l'Indifférence
+# Laodiceea - Cetatea avertizării
 
-## Histoire
+## Aspecte Pozitive
+1. **Faptele lor nu sunt de urmat**
 
-Laodicée était l'une des villes les plus riches de sa région. Elle avait des sources chaudes célèbres et une économie prospère. Cependant, la communauté chrétienne de Laodicée était pleine d'indifférence et d'apathie.
+## Context istoric
+Laodiceea a fost unul dintre cele mai bogate orașe ale Asiei Mici. Datorită poziției pe rute comerciale importante, a devenit un centru economic major, cunoscut pentru bănci, industria textilă și școala medicală. După cutremurul din anul 60 d.Hr., orașul s-a reconstruit din propriile resurse.
 
-## Message Spirituel
+## Mesaj spiritual
+Laodiceea este ultima dintre cele șapte biserici menționate în Apocalipsa 3:14-22. Mesajul denunță autosuficiența și indiferența spirituală. Hristos îi cheamă la pocăință și la o credință autentică, vie.
 
-L'Apocalypse envoie à Laodicée peut-être la critique la plus dure:
-
-> *"Parce que tu es tièdes—ni chaud ni froid—je suis sur le point de te vomir de ma bouche..."*
-
-Laodicée est caractérisée comme "tiède"—ni passionnée ni dévouée. Le message parle du danger de l'indifférence et de la nécessité de prendre des positions courageuses.
-
-## Pourquoi Visiter Laodicée
-
-1. **Ruines de la Richesse** - Preuves d'une ville très prospère
-2. **Sources Chaudes** - Les eaux qui lui ont donné la célébrité et des problèmes
-3. **Théâtres et Argent** - Monuments d'une économie puissante
-4. **Leçon sur le Matérialisme** - Comment la richesse ne garantit pas la signification
-
-## Thèmes Centraux
-
-- **Danger de l'Indifférence** - être au milieu est dangereux
-- **Conséquences Matérielles** - comment le confort peut affaiblir les convictions
-- **Besoin d'Action** - vous devez choisir un chemin et le suivre avec passion
+> **„Dar fiindcă ești căldicel – nici în clocot, nici rece – o să te vărs din gura Mea!” — Apocalipsa 3:16**

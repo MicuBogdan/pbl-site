@@ -1,36 +1,17 @@
-# Smirna - Orașul Speranței
+**Smirna- Credincioasă în suferință, bogată în Hristos**
 
-## Istoric
+**Aspecte Pozitive**
 
-Smirna, situată pe malurile Mării Egee, a fost o cetate portuară de importanță majoră. Cu origini în perioada elenistică, ea a prosperat sub controlul roman și a devenit un centru vibrând de comerț maritime și schimb cultural.
+1. **Fapte bune.**  
+2. **Necaz îndurat.**  
+3. **Sărăcie bogată.**  
+4. **Răbdare sfântă.**  
+5. **Credincioșie totală.**
 
-Particularitățile Smarnei:
+**Experienţa bisericii din Smirna coincide cu persecuţia severă a creştinilor din Imperiul Roman, in timpul secolelor I-III. Această perioadă a însemnat si o indepărtare de la simplitatea Evangheliei. Pe Muntele Pagus putem vedea acropola Smirnei, situată la 140 de m deasupra cetăţii.Era numită ,,coroana cetății". Istoria ne demonstrează că nu era suficient să cucerești cetatea respectivă. Despre Homer se spune că ar fi locuit pe aceste meleaguri. Numele lui original era Melesigenes ,, născut la Mele": Mele era numele râului care curgea pe lângă cetate. Ionienii din Colophon i-au expulazat pe eolieni la sfarsitul secolului al VIII-lea î.Hr., cetatea devenind astfel parte a ligii ioniene. Regele lidian a distrus Smirna in jurul anului 600 î.Hr., transformând-o la nivelul unui sat în perioada clasică. Cetatea antică Smirna(lzmir în prezent) a fost localizată in capul golfului Smirnei \- Izmir Korfezi. A fost construită pe înălțimi care să-i asigure nemurirea, pe malurile stâncoase și înalte, inconjurată ca o citadelă de golful al cărui nume îl poartă. Smirna este unul din cele mai vechi orașe antice ioniene, începuturile lui pierzându-se în mitologie. Tradiţii bizantine spun că Tantalus, un rege mitologic lidian, a fost întemeietorul lui. Herodot scria că Theseu a numit orașul cu numele Smirna după numele soţiei sale,o amazoană. Alţii susţin că numele oraşului derivă de la o plantă aro- mată numită "mir", căruia grecii îi spun "smirnă", din care se scoate un parfum plăcut si medicamente. Astfel, numele orasului ar însemna "Miros plăcut" sau "Jertfă plăcută".**
 
-- **Port comercial major** cu rețele de comerț care se întindeau pe toată Mediterana
-- **Populație cosmopolită** care aducea oameni din tot imperiul
-- **Renașterea după devastare** - Smirna a fost distrusă și reconstruită de-a lungul istoriei
+**Din punct de vedere spiritual, Smirna este una dintre cele șapte biserici menționate în Apocalipsa 2:8-11. Este biserica ce nu primește mustrare, ci doar încurajare. Deși era săracă și persecutată, era considerată bogată spiritual. Mesajul central pentru Smirna este: „Fii credincios până la moarte și îți voi da cununa vieții.” Ea simbolizează perioada persecuțiilor creștine și rămâne un exemplu de credincioșie, curaj și statornicie în suferință.**
 
-## Mesajul Spiritual
+**„Nu te teme de niciunul dintre lucrurile pe care urmează să le suferi\! “**
 
-Apocalipsa îi transmite Smirnei un mesaj de încurajare și speranță:
-
-> *"Știu necazurile tale și sărăcia ta (dar tu ești bogat). Și jignirile celor ce se zic iudei și nu sunt..."*
-
-Spre deosebire de alte cetăți, Smirna nu este criticată. Ea este binecuvântată pentru răbdare în suferință și pentru adevarata creștinătate în inimă, indiferent de statutul material.
-
-## De Ce Să Vizitezi Smirna
-
-1. **Ruinele Portului Antic** - Mărturii ale comerțului și schimbului cultural din antichitate
-2. **Peisajul Egean** - Viste maritime spectaculoase care vor face excursionists să se simtă în locul lor
-3. **Istoria Renașterii** - Cum Smirna a fost distrusă și reconstruită prin veacuri
-4. **Arta și Meșteșugurile Locale** - Tradițiile care au supraviețuit dominației și schimbării
-
-## Temele Centrale
-
-Smirna simbolizează:
-
-- **Rezistența în fața suferinței** - comunități care supraviețuiesc și prosperă
-- **Adevărata bogăție** - nu banii, ci omenia și credința
-- **Sperană permanentă** - indiferent cât de greu sunt timpurile, viața găsește cale
-
-Smirna ne îndeamnă să privim dincolo de materialism și să găsim valoare în suflet și în comunitate.
+**Apocalipsa 2:10**

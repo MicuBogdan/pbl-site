@@ -17,7 +17,7 @@
         "en": "Roman period, 1st-2nd century",
         "fr": "Période romaine, Ier-IIe siècles"
       },
-      "videoId": "dQw4w9WgXcQ",
+      "videoId": "Xfo5K22uKn0",
       "shortDescription": {
         "ro": "Cea mai bogată și influența cetate din Asia Mică, renumită pentru Templul Dianei.",
         "en": "The richest and most influential city in Asia Minor, famous for the Temple of Diana.",
@@ -51,7 +51,7 @@
         "en": "Roman period, 1st-2nd century",
         "fr": "Période romaine, Ier-IIe siècles"
       },
-      "videoId": "dQw4w9WgXcQ",
+      "videoId": "IaCQe2zv3pg",
       "shortDescription": {
         "ro": "Cetate portuară prospură pe Marea Egee, centru de comerț și cultură.",
         "en": "Prosperous port city on the Aegean Sea, center of trade and culture.",
@@ -85,7 +85,7 @@
         "en": "Hellenistic and Roman period, 2nd-1st BC and 1st-2nd AD",
         "fr": "Période hellénistique et romaine, IIe-Ier av. J.-C. et Ier-IIe ap. J.-C."
       },
-      "videoId": "dQw4w9WgXcQ",
+      "videoId": "xF85BQFBQRY",
       "shortDescription": {
         "ro": "Cetate înaltă cu bibliotecă faimoasă și centru medical de reputație mondială.",
         "en": "Hilltop city with famous library and world-renowned medical center.",
@@ -119,7 +119,7 @@
         "en": "Roman period, 1st-2nd century",
         "fr": "Période romaine, Ier-IIe siècles"
       },
-      "videoId": "dQw4w9WgXcQ",
+      "videoId": "7VJc_qgMUZc",
       "shortDescription": {
         "ro": "Cetate cunoscută pentru meșterii vopselilor și producători de texturi purpurii.",
         "en": "City famous for dyers and makers of purple fabrics.",
@@ -153,7 +153,7 @@
         "en": "Hellenistic and Roman period, 3rd BC - 2nd AD century",
         "fr": "Période hellénistique et romaine, IIIe av. J.-C. - IIe ap. J.-C."
       },
-      "videoId": "dQw4w9WgXcQ",
+      "videoId": "BZ2vsaI1KNE",
       "shortDescription": {
         "ro": "Capitala regatului Lidia, centru de putere și bogăție din Orientul Antic.",
         "en": "Capital of the Lydian kingdom, center of power and wealth in the Ancient East.",
@@ -187,7 +187,7 @@
         "en": "Hellenistic and Roman period, 2nd BC - 2nd AD century",
         "fr": "Période hellénistique et romaine, IIe av. J.-C. - IIe ap. J.-C."
       },
-      "videoId": "dQw4w9WgXcQ",
+      "videoId": "ELDDj8ktxMI",
       "shortDescription": {
         "ro": "Cetate a prieteniei și dragostei frățești, cu o comunitate creștină blândă.",
         "en": "City of friendship and brotherly love, with a gentle Christian community.",
@@ -221,7 +221,7 @@
         "en": "Hellenistic and Roman period, 3rd BC - 2nd AD century",
         "fr": "Période hellénistique et romaine, IIIe av. J.-C. - IIe ap. J.-C."
       },
-      "videoId": "dQw4w9WgXcQ",
+      "videoId": "qDFF_Evtu3w",
       "shortDescription": {
         "ro": "Cetate bogată și independentă, dar cu o comunitate creștină tiepidă și nepăsătoare.",
         "en": "Rich and independent city, but with an indifferent Christian community.",
@@ -241,40 +241,40 @@
   ],
   "translations": {
     "ro": {
-      "hero.title": "Septem Civitates",
+      "hero.title": "7 Cetăți",
       "hero.subtitle": "O călătorie interactivă prin cele 7 cetăți misterioase din Apocalipsa",
       "nav.home": "Acasă",
       "breadcrumb.home": "Acasă",
       "sidebar.highlights": "Informații Cheie",
       "sidebar.visit": "De ce să vizitezi",
       "adventure.title": "Alege-ți Povestea",
-      "footer.copyright": "2026 Septem Civitates. Toate drepturile rezervate.",
+      "footer.copyright": "2026 7 Cetăți. Toate drepturile rezervate.",
       "footer.about": "Despre",
       "footer.contact": "Contact",
       "footer.sources": "Surse"
     },
     "en": {
-      "hero.title": "Septem Civitates",
+      "hero.title": "7 Cities",
       "hero.subtitle": "An interactive journey through the 7 mysterious cities from the Apocalypse",
       "nav.home": "Home",
       "breadcrumb.home": "Home",
       "sidebar.highlights": "Key Information",
       "sidebar.visit": "Why Visit",
       "adventure.title": "Choose Your Story",
-      "footer.copyright": "2026 Septem Civitates. All rights reserved.",
+      "footer.copyright": "2026 7 Cities. All rights reserved.",
       "footer.about": "About",
       "footer.contact": "Contact",
       "footer.sources": "Sources"
     },
     "fr": {
-      "hero.title": "Septem Civitates",
+      "hero.title": "7 Cités",
       "hero.subtitle": "Un voyage interactif à travers les 7 villes mystérieuses de l'Apocalypse",
       "nav.home": "Accueil",
       "breadcrumb.home": "Accueil",
       "sidebar.highlights": "Informations Clés",
       "sidebar.visit": "Pourquoi Visiter",
       "adventure.title": "Choisissez Votre Histoire",
-      "footer.copyright": "2026 Septem Civitates. Tous droits réservés.",
+      "footer.copyright": "2026 7 Cités. Tous droits réservés.",
       "footer.about": "À Propos",
       "footer.contact": "Contact",
       "footer.sources": "Sources"

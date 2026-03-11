@@ -1,41 +1,15 @@
-# Éphèse - La Ville de Diane
+Efes \- Cetatea care și-a păstrat credința
 
-## Histoire
+Aspecte Pozitive
 
-Éphèse, connue dans l'antiquité sous le nom d'Éphèse, était l'une des plus importantes et prospères villes d'Asie Mineure. Située sur les rives de la mer Égée, elle a évolué au cours de plusieurs siècles d'une colonie ionienne à la capitale commerciale du royaume de Pergame, puis à une province romaine.
+1. **Lucrează cu hărnicie**  
+2. **Nu tolerează răul**  
+3. **Cercetează adevărul**  
+4. **Sunt răbdători**  
+5. **Nume de credincioși**
 
-À son apogée, Éphèse était connue pour:
+**Efes a fost un important oraș antic grecesc și roman situat în vestul Turciei, lângă Selcuk. A avut un rol semnificativ în prima perioadă a creștinismului și în dezvoltarea culturală romană. În secolul X î.Hr., în perioada elenistică, a devenit un port important. Era renumit pentru Templul zeiței Artemis, una dintre minunile lumii antice. În anul 133 î.Hr. a fost ocupat de romani și a devenit capitala provinciei Asia.În epoca romană a cunoscut o mare înflorire economică și urbanistică. Au fost construite monumente celebre precum Marele Teatru și Biblioteca lui Celsus. Efes a fost mult timp un centru religios major al lumii antice. În secolul I d.Hr., apostolul Pavel a format aici o comunitate creștină puternică. În anul 431 a avut loc Conciliul de la Efes, important pentru doctrina creștină. Declinul orașului a fost cauzat de colmatarea portului, cutremure și invazii. În Evul Mediu a fost aproape abandonat, iar astăzi ruinele sale amintesc de trecutul său glorios.**
 
-- **Le Temple de Diane (Artemision)** - l'une des Sept Merveilles du Monde Antique
-- **Un marché vibrant** qui attirait des marchands de toute la Méditerranée
-- **Une architecture impressionnante** incluant des théâtres et des bibliothèques de renommée mondiale
+**În cartea Apocalipsa, Biserica din Efes primește un mesaj direct din partea lui Hristos, prin apostolul Ioan. Comunitatea este lăudată pentru credința, răbdarea și statornicia ei, precum și pentru faptul că a respins învățăturile false și pe cei care pretindeau pe nedrept că sunt apostoli. Totuși, mesajul conține și un avertisment serios: credincioșii și-au pierdut dragostea dintâi, acea iubire curată și profundă pentru Dumnezeu. Dimensiunea spirituală a chemării este clară – ei sunt îndemnați să-și amintească de unde au căzut, să se pocăiască și să se întoarcă la faptele făcute din dragoste sinceră. Accentul cade pe relația vie cu Dumnezeu, nu doar pe corectitudinea doctrinară. Mesajul subliniază că fidelitatea exterioară trebuie însoțită de o inimă aprinsă de iubire. Celui ce va birui i se promite accesul la pomul vieții, simbol al comuniunii veșnice cu Dumnezeu.**
 
-## Message Spirituel
-
-Selon l'Apocalypse, Éphèse était la première des sept villes à recevoir des lettres divines. La communauté chrétienne a été critiquée pour avoir perdu son premier amour, bien qu'elle soit restée fidèle à la doctrine.
-
-> *"Je connais tes œuvres, ton travail et ta persévérance... Mais j'ai quelque chose contre toi: tu as abandonné ton premier amour."*
-
-Ceci est un avertissement intemporel: même les institutions apparemment stables et prospères peuvent devenir vides de l'intérieur si elles perdent l'essence de l'amour et du but.
-
-## Pourquoi Visiter Éphèse
-
-1. **Ruines du Temple de Diane** - Vestiges de l'une des plus grandes merveilles du monde antique. Les colonnes partiellement préservées sont impressionnantes.
-
-2. **Bibliothèque de Celsus** - Une œuvre architecturale remarquable qui a préservé les connaissances de la civilisation antique.
-
-3. **Le Grand Théâtre** - Capacité de 24 000 spectateurs, toujours impressionnant aujourd'hui.
-
-4. **Rue Arcadienne** - La route qui reliait le temple au port, maintenant un chemin plein d'histoire.
-
-5. **Religion et Spiritualité** - Le lieu où le paganisme et le christianisme primitif se rencontraient, créant un profond échange de pensée et de croyance.
-
-## L'Impact d'Éphèse
-
-Éphèse n'était pas qu'une vieille ville. C'était un symbole de:
-
-- **L'Ambiguïté du Progrès** - comment la prospérité matérielle ne garantit pas la paix spirituelle
-- **La Transformation Religieuse** - du culte de Diane à l'acceptation du christianisme
-- **Le Déclin et la Renaissance** - de la magnificence aux ruines, puis à la reconnaissance historique
-
-Aujourd'hui, Éphèse nous rappelle que les civilisations ne sont pas éternelles, mais leurs mémoires ne le sont pas non plus. Ce que nous construisons aujourd'hui devient un témoignage pour l'avenir.
+ **„Celui ce învinge îi voi da să mănânce din Pomul Vieții, care se află în Raiul lui Dumnezeu.”  \- Apocalipsa 2:7**
